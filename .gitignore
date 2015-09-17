@@ -1,3 +1,13 @@
+# Exclude bin and .metadata directories
+bin
+.metadata
+*~
+target/
+
+# for Mac
+.DS_Store
+._*
+
 *.class
 
 # Mobile Tools for Java (J2ME)
