@@ -3,6 +3,8 @@ bin
 .metadata
 *~
 target/
+Servers/
+RemoteSystemsTempFiles
 
 # for Mac
 .DS_Store
