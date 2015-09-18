@@ -6,6 +6,6 @@
 	
 	KAKA jejejejejeje
 	
-	JAVI ERES UN IDIOTA!! JIJIJIJI
+	JAVI ERES UN IDIOTA!! JIJIJIJI No seas mentirosa jojojojojo
 </body>
 </html>
