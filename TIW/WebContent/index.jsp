@@ -6,5 +6,8 @@
 </head>
 <body>
 	Tu navegador es <%= request.getHeader("user-agent")%>
+	
+	Holaaaaa.
+	
 </body>
 </html>
