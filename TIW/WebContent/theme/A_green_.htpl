@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta http-equiv="Content-Style-Type" content="text/css">
-<link rel="stylesheet" href="/ServletFiltros/theme/green.css" type="text/css">
+<link rel="stylesheet" href="/TIW/theme/green.css" type="text/css">
 <!-- tpl:insert attribute="headarea" -->
 <title>A_verde</title>
 <!-- /tpl:insert -->
@@ -16,7 +16,7 @@
          <table class="header" cellspacing="0" cellpadding="0" border="0" width="100%">
             <tbody>
                <tr>
-                  <td width="150"><img border="0" width="150" height="55" alt="Logotipo de la empresa" src="/ServletFiltros/theme/logo_green.gif"></td>
+                  <td width="150"><img border="0" width="150" height="55" alt="Logotipo de la empresa" src="/TIW/theme/logo_green.gif"></td>
                   <td></td>
                </tr>
             </tbody>

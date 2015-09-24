@@ -1,4 +1,4 @@
-package jhc.filtros;
+package tiw.filtros;
 
 import java.io.IOException;
 import javax.servlet.Filter;
