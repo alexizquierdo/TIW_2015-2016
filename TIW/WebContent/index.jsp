@@ -5,7 +5,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	Tu navegador es <%= request.getHeader("user-agent")%>
 	
 	Holaaaaa.
 	
