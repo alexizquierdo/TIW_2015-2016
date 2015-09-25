@@ -105,7 +105,7 @@
                                         <div class="col-md-6 col-md-offset-6">
                                             <div class="slide-content">
                                                 <h2>&iexcl;&Eacute;xito 100% asegurado!</h2>
-                                                <p>¿A qu&eacute; est&aacute;s esperando?</p>
+                                                <p>&iquest;A qu&eacute; est&aacute;s esperando?</p>
                                                 <a href="shop.jsp" class="readmore">Learn more</a>
                                             </div>
                                         </div>
