@@ -294,7 +294,7 @@
                                 <i class="fa fa-star"></i>
                             </div>
                             <div class="product-wid-price">
-                                <ins>$400.00</ins> <del>$425.00</del>
+                                <ins>400&euro;</ins> <del>425&euro;</del>
                             </div>                            
                         </div>
                         <div class="single-wid-product">
@@ -308,7 +308,7 @@
                                 <i class="fa fa-star"></i>
                             </div>
                             <div class="product-wid-price">
-                                <ins>$400.00</ins> <del>$425.00</del>
+                                <ins>400&euro;</ins> <del>425&euro;</del>
                             </div>                            
                         </div>
                         <div class="single-wid-product">
@@ -322,7 +322,7 @@
                                 <i class="fa fa-star"></i>
                             </div>
                             <div class="product-wid-price">
-                                <ins>$400.00</ins> <del>$425.00</del>
+                                <ins>400&euro;</ins> <del>425&euro;</del>
                             </div>                            
                         </div>
                     </div>
@@ -342,7 +342,7 @@
                                 <i class="fa fa-star"></i>
                             </div>
                             <div class="product-wid-price">
-                                <ins>$400.00</ins> <del>$425.00</del>
+                                <ins>400&euro;</ins> <del>425&euro;</del>
                             </div>                            
                         </div>
                         <div class="single-wid-product">
@@ -356,7 +356,7 @@
                                 <i class="fa fa-star"></i>
                             </div>
                             <div class="product-wid-price">
-                                <ins>$400.00</ins> <del>$425.00</del>
+                                <ins>400&euro;</ins> <del>425&euro;</del>
                             </div>                            
                         </div>
                         <div class="single-wid-product">
@@ -370,7 +370,7 @@
                                 <i class="fa fa-star"></i>
                             </div>
                             <div class="product-wid-price">
-                                <ins>$400.00</ins> <del>$425.00</del>
+                                <ins>400&euro;</ins> <del>425&euro;</del>
                             </div>                            
                         </div>
                     </div>
@@ -390,7 +390,7 @@
                                 <i class="fa fa-star"></i>
                             </div>
                             <div class="product-wid-price">
-                                <ins>$400.00</ins> <del>$425.00</del>
+                                <ins>400&euro;</ins> <del>425&euro;</del>
                             </div>                            
                         </div>
                         <div class="single-wid-product">
@@ -404,7 +404,7 @@
                                 <i class="fa fa-star"></i>
                             </div>
                             <div class="product-wid-price">
-                                <ins>$400.00</ins> <del>$425.00</del>
+                                <ins>400&euro;</ins> <del>425&euro;</del>
                             </div>                            
                         </div>
                         <div class="single-wid-product">
@@ -418,7 +418,7 @@
                                 <i class="fa fa-star"></i>
                             </div>
                             <div class="product-wid-price">
-                                <ins>$400.00</ins> <del>$425.00</del>
+                                <ins>400&euro;</ins> <del>425&euro;</del>
                             </div>                            
                         </div>
                     </div>
@@ -429,20 +429,5 @@
     
     <%@include file="footer.jsp" %>
 
-	<!-- Latest jQuery form server -->
-    <script src="https://code.jquery.com/jquery.min.js"></script>
-    
-    <!-- Bootstrap JS form CDN -->
-    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
-    
-    <!-- jQuery sticky menu -->
-    <script src="js/owl.carousel.min.js"></script>
-    <script src="js/jquery.sticky.js"></script>
-    
-    <!-- jQuery easing -->
-    <script src="js/jquery.easing.1.3.min.js"></script>
-    
-    <!-- Main Script -->
-    <script src="js/main.js"></script>
   </body>
 </html>
