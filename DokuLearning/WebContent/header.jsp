@@ -1,18 +1,6 @@
 <div class="header-area">
 	<div class="container">
 		<div class="row">
-			<!--<div class="col-md-4">
-                    <div class="user-menu">
-                        <ul>
-                            <li><a href="#"><i class="fa fa-user"></i> My Account</a></li>
-                            <li><a href="#"><i class="fa fa-heart"></i> Wishlist</a></li>
-                            <li><a href="cart.jsp"><i class="fa fa-user"></i> My Cart</a></li>
-                            <li><a href="checkout.jsp"><i class="fa fa-user"></i> Checkout</a></li>
-                            <li><a href="#"><i class="fa fa-user"></i> Login</a></li>
-                        </ul>
-                    </div>
-                </div>-->
-
 			<div class="col-md-8 pull-right">
 				<div class="header-right">
 					<ul class="list-unstyled list-inline">
@@ -42,8 +30,9 @@
 
 			<div class="col-sm-6">
 				<div class="shopping-item">
+					<i class="fa fa-shopping-cart"></i> 
 					<a href="cart.jsp">Carrito: <span class="cart-amunt">399&euro;</span>
-						<i class="fa fa-shopping-cart"></i> <span class="product-count">5</span></a>
+					<span class="product-count">5</span></a>
 				</div>
 			</div>
 		</div>
