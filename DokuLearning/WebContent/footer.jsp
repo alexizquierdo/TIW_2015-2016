@@ -25,7 +25,7 @@
 				<div class="footer-menu">
 					<h2 class="footer-wid-title">Mapa del sitio</h2>
 					<ul>
-						<li><a href="shop.html">Cursos</a></li>
+						<li><a href="shop.jsp">Cursos</a></li>
 						<li><a href="#">Profesores</a></li>
 						<li><a href="#">Alumnos</a></li>
 						<li><a href="#">Contacto</a></li>
@@ -47,7 +47,7 @@
 			<div class="col-md-3 col-sm-6">
 				<div class="footer-newsletter">
 					<h2 class="footer-wid-title">Newsletter</h2>
-					<p>¡Subscr&iacute;bete a nuestro bolet&iacute;n informativo y
+					<p>&iexcl;Subscr&iacute;bete a nuestro bolet&iacute;n informativo y
 						recibe notificaciones de los &uacute;ltimos cursos y promociones!</p>
 					<div class="newsletter-form">
 						<form action="#">

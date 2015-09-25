@@ -18,9 +18,9 @@
     <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
     
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="../css/owl.carousel.css">
-    <link rel="stylesheet" href="../css/style.css">
-    <link rel="stylesheet" href="../css/responsive.css">
+    <link rel="stylesheet" href="css/owl.carousel.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/responsive.css">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -31,7 +31,7 @@
   </head>
   <body>
    
-    <%@include file="../header.jsp" %>
+    <%@include file="header.jsp" %>
     
     <div class="product-big-title-area">
         <div class="container">
@@ -62,28 +62,28 @@
                     <div class="single-sidebar">
                         <h2 class="sidebar-title">Products</h2>
                         <div class="thubmnail-recent">
-                            <img src="../img/product-thumb-1.jpg" class="recent-thumb" alt="">
+                            <img src="img/product-thumb-1.jpg" class="recent-thumb" alt="">
                             <h2><a href="">Sony Smart TV - 2015</a></h2>
                             <div class="product-sidebar-price">
                                 <ins>$700.00</ins> <del>$800.00</del>
                             </div>                             
                         </div>
                         <div class="thubmnail-recent">
-                            <img src="../img/product-thumb-1.jpg" class="recent-thumb" alt="">
+                            <img src="img/product-thumb-1.jpg" class="recent-thumb" alt="">
                             <h2><a href="">Sony Smart TV - 2015</a></h2>
                             <div class="product-sidebar-price">
                                 <ins>$700.00</ins> <del>$800.00</del>
                             </div>                             
                         </div>
                         <div class="thubmnail-recent">
-                            <img src="../img/product-thumb-1.jpg" class="recent-thumb" alt="">
+                            <img src="img/product-thumb-1.jpg" class="recent-thumb" alt="">
                             <h2><a href="">Sony Smart TV - 2015</a></h2>
                             <div class="product-sidebar-price">
                                 <ins>$700.00</ins> <del>$800.00</del>
                             </div>                             
                         </div>
                         <div class="thubmnail-recent">
-                            <img src="../img/product-thumb-1.jpg" class="recent-thumb" alt="">
+                            <img src="img/product-thumb-1.jpg" class="recent-thumb" alt="">
                             <h2><a href="">Sony Smart TV - 2015</a></h2>
                             <div class="product-sidebar-price">
                                 <ins>$700.00</ins> <del>$800.00</del>
@@ -115,14 +115,14 @@
                             <div class="col-sm-6">
                                 <div class="product-images">
                                     <div class="product-main-img">
-                                        <img src="../img/product-2.jpg" alt="">
+                                        <img src="img/product-2.jpg" alt="">
                                     </div>
                                     
                                     <div class="product-gallery">
-                                        <img src="../img/product-thumb-1.jpg" alt="">
-                                        <img src="../img/product-thumb-2.jpg" alt="">
-                                        <img src="../img/product-thumb-3.jpg" alt="">
-                                        <img src="../img/product-thumb-4.jpg" alt="">
+                                        <img src="img/product-thumb-1.jpg" alt="">
+                                        <img src="img/product-thumb-2.jpg" alt="">
+                                        <img src="img/product-thumb-3.jpg" alt="">
+                                        <img src="img/product-thumb-4.jpg" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -190,7 +190,7 @@
                             <div class="related-products-carousel">
                                 <div class="single-product">
                                     <div class="product-f-image">
-                                        <img src="../img/product-1.jpg" alt="">
+                                        <img src="img/product-1.jpg" alt="">
                                         <div class="product-hover">
                                             <a href="" class="add-to-cart-link"><i class="fa fa-shopping-cart"></i> Add to cart</a>
                                             <a href="" class="view-details-link"><i class="fa fa-link"></i> See details</a>
@@ -205,7 +205,7 @@
                                 </div>
                                 <div class="single-product">
                                     <div class="product-f-image">
-                                        <img src="../img/product-2.jpg" alt="">
+                                        <img src="img/product-2.jpg" alt="">
                                         <div class="product-hover">
                                             <a href="" class="add-to-cart-link"><i class="fa fa-shopping-cart"></i> Add to cart</a>
                                             <a href="" class="view-details-link"><i class="fa fa-link"></i> See details</a>
@@ -219,7 +219,7 @@
                                 </div>
                                 <div class="single-product">
                                     <div class="product-f-image">
-                                        <img src="../img/product-3.jpg" alt="">
+                                        <img src="img/product-3.jpg" alt="">
                                         <div class="product-hover">
                                             <a href="" class="add-to-cart-link"><i class="fa fa-shopping-cart"></i> Add to cart</a>
                                             <a href="" class="view-details-link"><i class="fa fa-link"></i> See details</a>
@@ -234,7 +234,7 @@
                                 </div>
                                 <div class="single-product">
                                     <div class="product-f-image">
-                                        <img src="../img/product-4.jpg" alt="">
+                                        <img src="img/product-4.jpg" alt="">
                                         <div class="product-hover">
                                             <a href="" class="add-to-cart-link"><i class="fa fa-shopping-cart"></i> Add to cart</a>
                                             <a href="" class="view-details-link"><i class="fa fa-link"></i> See details</a>
@@ -249,7 +249,7 @@
                                 </div>
                                 <div class="single-product">
                                     <div class="product-f-image">
-                                        <img src="../img/product-5.jpg" alt="">
+                                        <img src="img/product-5.jpg" alt="">
                                         <div class="product-hover">
                                             <a href="" class="add-to-cart-link"><i class="fa fa-shopping-cart"></i> Add to cart</a>
                                             <a href="" class="view-details-link"><i class="fa fa-link"></i> See details</a>
@@ -264,7 +264,7 @@
                                 </div>
                                 <div class="single-product">
                                     <div class="product-f-image">
-                                        <img src="../img/product-6.jpg" alt="">
+                                        <img src="img/product-6.jpg" alt="">
                                         <div class="product-hover">
                                             <a href="" class="add-to-cart-link"><i class="fa fa-shopping-cart"></i> Add to cart</a>
                                             <a href="" class="view-details-link"><i class="fa fa-link"></i> See details</a>
@@ -285,7 +285,7 @@
         </div>
     </div>
 
-    <%@include file="../footer.jsp" %>
+    <%@include file="footer.jsp" %>
     
   </body>
 </html>

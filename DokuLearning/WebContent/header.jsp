@@ -6,8 +6,8 @@
                         <ul>
                             <li><a href="#"><i class="fa fa-user"></i> My Account</a></li>
                             <li><a href="#"><i class="fa fa-heart"></i> Wishlist</a></li>
-                            <li><a href="cart.html"><i class="fa fa-user"></i> My Cart</a></li>
-                            <li><a href="checkout.html"><i class="fa fa-user"></i> Checkout</a></li>
+                            <li><a href="cart.jsp"><i class="fa fa-user"></i> My Cart</a></li>
+                            <li><a href="checkout.jsp"><i class="fa fa-user"></i> Checkout</a></li>
                             <li><a href="#"><i class="fa fa-user"></i> Login</a></li>
                         </ul>
                     </div>
@@ -35,14 +35,14 @@
 			<div class="col-sm-6">
 				<div class="logo">
 					<h1>
-						<a href="/index.jsp">Doku<span>Learning</span></a>
+						<a href="index.jsp">Doku<span>Learning</span></a>
 					</h1>
 				</div>
 			</div>
 
 			<div class="col-sm-6">
 				<div class="shopping-item">
-					<a href="/pages/cart">Carrito: <span class="cart-amunt">399&euro;</span>
+					<a href="cart.jsp">Carrito: <span class="cart-amunt">399&euro;</span>
 						<i class="fa fa-shopping-cart"></i> <span class="product-count">5</span></a>
 				</div>
 			</div>
@@ -64,8 +64,8 @@
 			</div>
 			<div class="navbar-collapse collapse">
 				<ul class="nav navbar-nav">
-					<li class="active"><a href="index.html">Inicio</a></li>
-					<li><a href="shop.html">Cursos</a></li>
+					<li class="active"><a href="index.jsp">Inicio</a></li>
+					<li><a href="shop.jsp">Cursos</a></li>
 					<li><a href="#">Profesores</a></li>
 					<li><a href="#">Alumnos</a></li>
 					<li><a href="#">Contacto</a></li>

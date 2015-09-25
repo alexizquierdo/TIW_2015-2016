@@ -61,11 +61,11 @@
                                     <div class="row">
                                         <div class="col-md-6 col-md-offset-6">
                                             <div class="slide-content">
-                                                <h2>¡Aprende desde casa!</h2>
+                                                <h2>&iexcl;Aprende desde casa!</h2>
                                                 <p>DokuLearning pone a tu disposici&oacute;n una infinidad de cursos on-line. La gran variedad
 						de la que disponemos te asegura encontrar un curso 100% adaptado a tus necesidades.</p>
-                                                <p>¡Deja de buscar y entra en nuestra tienda on-line!</p>
-                                                <a href="shop.html" class="readmore">Ver cursos</a>
+                                                <p>&iexcl;Deja de buscar y entra en nuestra tienda on-line!</p>
+                                                <a href="shop.jsp" class="readmore">Ver cursos</a>
                                             </div>
                                         </div>
                                     </div>
@@ -85,8 +85,8 @@
                                             <div class="slide-content">
                                                 <h2>R&aacute;pido y Sencillo</h2>
                                                 <p>Sin gastos de env&iacute;o, aprender&aacute;s todo lo que necesites...</p>
-						<p>¡Sin moverte de casa!</p>
-                                                <a href="shop.html" class="readmore">Ver cursos</a>
+						<p>&iexcl;Sin moverte de casa!</p>
+                                                <a href="shop.jsp" class="readmore">Ver cursos</a>
                                             </div>
                                         </div>
                                     </div>
@@ -104,9 +104,9 @@
                                     <div class="row">
                                         <div class="col-md-6 col-md-offset-6">
                                             <div class="slide-content">
-                                                <h2>¡&Eacute;xito 100% asegurado!</h2>
+                                                <h2>&iexcl;&Eacute;xito 100% asegurado!</h2>
                                                 <p>¿A qu&eacute; est&aacute;s esperando?</p>
-                                                <a href="shop.html" class="readmore">Learn more</a>
+                                                <a href="shop.jsp" class="readmore">Learn more</a>
                                             </div>
                                         </div>
                                     </div>
@@ -165,11 +165,11 @@
                                     <img src="img/product-1.jpg" alt="">
                                     <div class="product-hover">
                                         <a href="#" class="add-to-cart-link"><i class="fa fa-shopping-cart"></i> Añadir</a>
-                                        <a href="single-product.html" class="view-details-link"><i class="fa fa-link"></i> Ver detalles</a>
+                                        <a href="single-product.jsp" class="view-details-link"><i class="fa fa-link"></i> Ver detalles</a>
                                     </div>
                                 </div>
                                 
-                                <h2><a href="single-product.html">Curso HTML5 + CSS3 + JS</a></h2>
+                                <h2><a href="single-product.jsp">Curso HTML5 + CSS3 + JS</a></h2>
                                 
                                 <div class="product-carousel-price">
                                     <ins>349&euro;</ins> <del>599&euro;</del>
@@ -180,11 +180,11 @@
                                     <img src="img/product-2.jpg" alt="">
                                     <div class="product-hover">
                                         <a href="#" class="add-to-cart-link"><i class="fa fa-shopping-cart"></i> Añadir</a>
-                                        <a href="single-product.html" class="view-details-link"><i class="fa fa-link"></i> Ver detalles</a>
+                                        <a href="single-product.jsp" class="view-details-link"><i class="fa fa-link"></i> Ver detalles</a>
                                     </div>
                                 </div>
                                 
-                                <h2><a href="single-product.html">Curso Android</a></h2>
+                                <h2><a href="single-product.jsp">Curso Android</a></h2>
                                 <div class="product-carousel-price">
                                     <ins>50&euro;</ins>
                                 </div> 
@@ -194,11 +194,11 @@
                                     <img src="img/product-3.jpg" alt="">
                                     <div class="product-hover">
                                         <a href="#" class="add-to-cart-link"><i class="fa fa-shopping-cart"></i> Añadir</a>
-                                        <a href="single-product.html" class="view-details-link"><i class="fa fa-link"></i> Ver detalles</a>
+                                        <a href="single-product.jsp" class="view-details-link"><i class="fa fa-link"></i> Ver detalles</a>
                                     </div>
                                 </div>
                                 
-                                <h2><a href="single-product.html">Curso maquillaje</a></h2>
+                                <h2><a href="single-product.jsp">Curso maquillaje</a></h2>
 
                                 <div class="product-carousel-price">
                                     <ins>649&euro;</ins> <del>730&euro;</del>
@@ -209,11 +209,11 @@
                                     <img src="img/product-4.jpg" alt="">
                                     <div class="product-hover">
                                         <a href="#" class="add-to-cart-link"><i class="fa fa-shopping-cart"></i> Añadir</a>
-                                        <a href="single-product.html" class="view-details-link"><i class="fa fa-link"></i> Ver detalles</a>
+                                        <a href="single-product.jsp" class="view-details-link"><i class="fa fa-link"></i> Ver detalles</a>
                                     </div>
                                 </div>
                                 
-                                <h2><a href="single-product.html">Curso ganchillo</a></h2>
+                                <h2><a href="single-product.jsp">Curso ganchillo</a></h2>
 
                                 <div class="product-carousel-price">
                                     <ins>43,50&euro;</ins>
@@ -224,11 +224,11 @@
                                     <img src="img/product-5.jpg" alt="">
                                     <div class="product-hover">
                                         <a href="#" class="add-to-cart-link"><i class="fa fa-shopping-cart"></i> Añadir</a>
-                                        <a href="single-product.html" class="view-details-link"><i class="fa fa-link"></i> Ver detalles</a>
+                                        <a href="single-product.jsp" class="view-details-link"><i class="fa fa-link"></i> Ver detalles</a>
                                     </div>
                                 </div>
                                 
-                                <h2><a href="single-product.html">Curso Office 2015</a></h2>
+                                <h2><a href="single-product.jsp">Curso Office 2015</a></h2>
 
                                 <div class="product-carousel-price">
                                     <ins>67&euro;</ins> <del>119,90&euro;</del>
@@ -239,11 +239,11 @@
                                     <img src="img/product-6.jpg" alt="">
                                     <div class="product-hover">
                                         <a href="#" class="add-to-cart-link"><i class="fa fa-shopping-cart"></i> Añadir</a>
-                                        <a href="single-product.html" class="view-details-link"><i class="fa fa-link"></i> Ver detalles</a>
+                                        <a href="single-product.jsp" class="view-details-link"><i class="fa fa-link"></i> Ver detalles</a>
                                     </div>
                                 </div>
                                 
-                                <h2><a href="single-product.html">Curso animaci&oacute;n 3D</a></h2>
+                                <h2><a href="single-product.jsp">Curso animaci&oacute;n 3D</a></h2>
 
                                 <div class="product-carousel-price">
                                     <ins>400,00&euro;</ins>
@@ -284,8 +284,8 @@
                         <h2 class="product-wid-title">M&aacute;s Vendidos</h2>
                         <a href="" class="wid-view-more">Ver Todos</a>
                         <div class="single-wid-product">
-                            <a href="single-product.html"><img src="img/product-thumb-1.jpg" alt="" class="product-thumb"></a>
-                            <h2><a href="single-product.html">Sony Smart TV - 2015</a></h2>
+                            <a href="single-product.jsp"><img src="img/product-thumb-1.jpg" alt="" class="product-thumb"></a>
+                            <h2><a href="single-product.jsp">Sony Smart TV - 2015</a></h2>
                             <div class="product-wid-rating">
                                 <i class="fa fa-star"></i>
                                 <i class="fa fa-star"></i>
@@ -298,8 +298,8 @@
                             </div>                            
                         </div>
                         <div class="single-wid-product">
-                            <a href="single-product.html"><img src="img/product-thumb-2.jpg" alt="" class="product-thumb"></a>
-                            <h2><a href="single-product.html">Apple new mac book 2015</a></h2>
+                            <a href="single-product.jsp"><img src="img/product-thumb-2.jpg" alt="" class="product-thumb"></a>
+                            <h2><a href="single-product.jsp">Apple new mac book 2015</a></h2>
                             <div class="product-wid-rating">
                                 <i class="fa fa-star"></i>
                                 <i class="fa fa-star"></i>
@@ -312,8 +312,8 @@
                             </div>                            
                         </div>
                         <div class="single-wid-product">
-                            <a href="single-product.html"><img src="img/product-thumb-3.jpg" alt="" class="product-thumb"></a>
-                            <h2><a href="single-product.html">Apple new i phone 6</a></h2>
+                            <a href="single-product.jsp"><img src="img/product-thumb-3.jpg" alt="" class="product-thumb"></a>
+                            <h2><a href="single-product.jsp">Apple new i phone 6</a></h2>
                             <div class="product-wid-rating">
                                 <i class="fa fa-star"></i>
                                 <i class="fa fa-star"></i>
@@ -332,8 +332,8 @@
                         <h2 class="product-wid-title">Populares</h2>
                         <a href="#" class="wid-view-more">Ver Todos</a>
                         <div class="single-wid-product">
-                            <a href="single-product.html"><img src="img/product-thumb-4.jpg" alt="" class="product-thumb"></a>
-                            <h2><a href="single-product.html">Sony playstation microsoft</a></h2>
+                            <a href="single-product.jsp"><img src="img/product-thumb-4.jpg" alt="" class="product-thumb"></a>
+                            <h2><a href="single-product.jsp">Sony playstation microsoft</a></h2>
                             <div class="product-wid-rating">
                                 <i class="fa fa-star"></i>
                                 <i class="fa fa-star"></i>
@@ -346,8 +346,8 @@
                             </div>                            
                         </div>
                         <div class="single-wid-product">
-                            <a href="single-product.html"><img src="img/product-thumb-1.jpg" alt="" class="product-thumb"></a>
-                            <h2><a href="single-product.html">Sony Smart Air Condtion</a></h2>
+                            <a href="single-product.jsp"><img src="img/product-thumb-1.jpg" alt="" class="product-thumb"></a>
+                            <h2><a href="single-product.jsp">Sony Smart Air Condtion</a></h2>
                             <div class="product-wid-rating">
                                 <i class="fa fa-star"></i>
                                 <i class="fa fa-star"></i>
@@ -360,8 +360,8 @@
                             </div>                            
                         </div>
                         <div class="single-wid-product">
-                            <a href="single-product.html"><img src="img/product-thumb-2.jpg" alt="" class="product-thumb"></a>
-                            <h2><a href="single-product.html">Samsung gallaxy note 4</a></h2>
+                            <a href="single-product.jsp"><img src="img/product-thumb-2.jpg" alt="" class="product-thumb"></a>
+                            <h2><a href="single-product.jsp">Samsung gallaxy note 4</a></h2>
                             <div class="product-wid-rating">
                                 <i class="fa fa-star"></i>
                                 <i class="fa fa-star"></i>
@@ -380,8 +380,8 @@
                         <h2 class="product-wid-title">M&aacute;s Recientes</h2>
                         <a href="#" class="wid-view-more">Ver Todos</a>
                         <div class="single-wid-product">
-                            <a href="single-product.html"><img src="img/product-thumb-3.jpg" alt="" class="product-thumb"></a>
-                            <h2><a href="single-product.html">Apple new i phone 6</a></h2>
+                            <a href="single-product.jsp"><img src="img/product-thumb-3.jpg" alt="" class="product-thumb"></a>
+                            <h2><a href="single-product.jsp">Apple new i phone 6</a></h2>
                             <div class="product-wid-rating">
                                 <i class="fa fa-star"></i>
                                 <i class="fa fa-star"></i>
@@ -394,8 +394,8 @@
                             </div>                            
                         </div>
                         <div class="single-wid-product">
-                            <a href="single-product.html"><img src="img/product-thumb-4.jpg" alt="" class="product-thumb"></a>
-                            <h2><a href="single-product.html">Samsung gallaxy note 4</a></h2>
+                            <a href="single-product.jsp"><img src="img/product-thumb-4.jpg" alt="" class="product-thumb"></a>
+                            <h2><a href="single-product.jsp">Samsung gallaxy note 4</a></h2>
                             <div class="product-wid-rating">
                                 <i class="fa fa-star"></i>
                                 <i class="fa fa-star"></i>
@@ -408,8 +408,8 @@
                             </div>                            
                         </div>
                         <div class="single-wid-product">
-                            <a href="single-product.html"><img src="img/product-thumb-1.jpg" alt="" class="product-thumb"></a>
-                            <h2><a href="single-product.html">Sony playstation microsoft</a></h2>
+                            <a href="single-product.jsp"><img src="img/product-thumb-1.jpg" alt="" class="product-thumb"></a>
+                            <h2><a href="single-product.jsp">Sony playstation microsoft</a></h2>
                             <div class="product-wid-rating">
                                 <i class="fa fa-star"></i>
                                 <i class="fa fa-star"></i>
