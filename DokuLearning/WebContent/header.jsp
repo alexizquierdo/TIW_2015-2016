@@ -20,7 +20,7 @@
 						<li><a href="#"><i class="fa fa-user"></i> Perfil</a></li>
 						<li><a href="#"><i class="fa fa-heart"></i> Favoritos</a></li>
 						<!-- ######################### -->
-						<li><a href="#"><i class="fa fa-user"></i> Acceso</a></li>
+						<li><a href="logg.jsp"><i class="fa fa-user"></i> Acceso</a></li>
 					</ul>
 				</div>
 			</div>
