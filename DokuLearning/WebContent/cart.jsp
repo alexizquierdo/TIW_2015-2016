@@ -121,7 +121,9 @@
                                     <tbody>
                                         <tr class="cart_item">
                                             <td class="product-remove">
-                                                <a title="Remove this item" class="remove" href="#">×</a> 
+                                                <a title="Eliminar curso" class="remove" href="#">
+                                                	<i class="fa fa-trash"></i>
+												</a> 
                                             </td>
 
                                             <td class="product-thumbnail">
@@ -133,19 +135,17 @@
                                             </td>
 
                                             <td class="product-price">
-                                                <span class="amount">£15.00</span> 
+                                                <span class="amount">15.00&euro;</span> 
                                             </td>
 
                                             <td class="product-quantity">
                                                 <div class="quantity buttons_added">
-                                                    <input type="button" class="minus" value="-">
                                                     <input type="number" size="4" class="input-text qty text" title="Qty" value="1" min="0" step="1">
-                                                    <input type="button" class="plus" value="+">
                                                 </div>
                                             </td>
 
                                             <td class="product-subtotal">
-                                                <span class="amount">£15.00</span> 
+                                                <span class="amount">15.00&euro;</span> 
                                             </td>
                                         </tr>
                                         <tr>
