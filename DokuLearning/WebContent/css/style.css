@@ -74,7 +74,7 @@ body { font-family: 'Titillium Web', sans-serif; }
     text-align: center;
 }
 
-.mainmenu-area {background: none repeat scroll 0 0 #1abc9c;
+.mainmenu-area {background: none repeat scroll 0 0 #b7ce63;
 font-family: "Roboto Condensed",sans-serif;
 text-transform: uppercase;
 width: 100%;
@@ -87,11 +87,11 @@ z-index: 999;}
     margin: 40px 0;font-weight: 400;
 }
 .logo h1 a {
-    color: #999;
+    color: #888;
 }
 .logo h1 a:hover {text-decoration: none;opacity: .7}
 .logo h1 a span {
-    color: #1abc9c;
+    color: #8fb339;
 }
 .shopping-item {
     border: 1px solid #ddd;
@@ -105,11 +105,11 @@ z-index: 999;}
     color: #666;
 }
 .cart-amunt {
-    color: #1abc9c;
+    color: #8fb339;
     font-weight: 700;
 }
 .product-count {
-    background: none repeat scroll 0 0 #1abc9c;
+    background: none repeat scroll 0 0 #4b5842;
     border-radius: 50%;
     color: #fff;
     display: inline-block;
@@ -128,17 +128,14 @@ z-index: 999;}
 
 
 .shopping-item:hover {
-    background: none repeat scroll 0 0 #1abc9c;
-    border-color: #1abc9c;
+    background: none repeat scroll 0 0 #8fb339;
+    border-color: #b7ce63;
 }
 .shopping-item:hover a {
     color: #fff;text-decoration: none
 }
 .shopping-item:hover .cart-amunt {
     color: #fff;
-}
-.shopping-item:hover .product-count {
-    background: none repeat scroll 0 0 #000;
 }
 
 
@@ -165,7 +162,7 @@ z-index: 999;}
 .slide-text {display: table-cell;vertical-align: middle}
 
 .zigzag-bottom {
-background: none repeat scroll 0 0 #1abc9c;
+background: none repeat scroll 0 0 #8fb339;
 bottom: -80px;
 height: 165px;
 left: -5%;
@@ -175,6 +172,16 @@ width: 108%;
 z-index: 9;
 }
 
+.zigzag-bottom2 {
+background: none repeat scroll 0 0 #4b5842;
+bottom: -80px;
+height: 165px;
+left: -5%;
+position: absolute;
+transform: rotate(3deg);
+width: 108%;
+z-index: 9;
+}
 .slide-bg {
   height: 100%;
   left: 0;
@@ -215,9 +222,9 @@ z-index: 9;
 
 
 .readmore {
-    background: none repeat scroll 0 0 #1abc9c;
-    color: #fff;
-    border: 1px solid #1abc9c;
+    background: none repeat scroll 0 0 #c7d59f;
+    color: #333;
+    border: 1px solid #b7ce63;
     display: inline-block;
     font-size: 20px;
     margin-top: 15px;
@@ -230,20 +237,20 @@ z-index: 9;
 
 
 .promo-area {
-  background: none repeat scroll 0 0 #1abc9c;
+  background: none repeat scroll 0 0 #8fb339;
   color: #fff;
   padding: 77px 0 200px;
 }
 
 .brands-area {
-  background: none repeat scroll 0 0 #1abc9c;
+  background: none repeat scroll 0 0 #4b5842;
   color: #fff;
   padding: 0px 0 200px;
 }
 
 .promo-area .zigzag-bottom, .brands-area .zigzag-bottom{background: #fff}
 .single-promo {
-    border: 1px solid #17a78b;
+    border: 1px solid #4b5842;
     font-size: 25px;
     font-weight: 200;
     padding: 20px 10px;
@@ -285,7 +292,7 @@ z-index: 9;
   width: 100%;transition: .4s;
 }
 .product-hover a {
-    background: none repeat scroll 0 0 #1abc9c;
+    background: none repeat scroll 0 0 #b7ce63;
     border-radius: 5px;
     color: #fff;
     display: block;
@@ -296,7 +303,7 @@ z-index: 9;
     position: absolute;
     text-align: center;
     text-transform: uppercase;
-    border: 1px solid #1abc9c;
+    border: 1px solid #b7ce63;
     width: 80%;z-index: 99;transition: .4s;
 }
 .product-hover a:hover {
@@ -304,7 +311,7 @@ z-index: 9;
   text-decoration: none;border-color: #444;
 }
 .product-carousel-price ins {
-  color: #1abc9c;
+  color: #b7ce63;
   font-weight: 700;
   margin-right: 5px;
   text-decoration: none;
@@ -326,7 +333,7 @@ z-index: 9;
     color: #222;
 }
 .single-product p {
-    color: #1abc9c;
+    color: #b7ce63;
     font-weight: 700;
 }
 
@@ -349,8 +356,8 @@ z-index: 9;
 }
 
 .latest-product .owl-nav div, .related-products-wrapper .owl-nav div {
-  border: 1px solid #1abc9c;
-  color: #1abc9c;
+  border: 1px solid #b7ce63;
+  color: #b7ce63;
   display: inline-block;
   margin-left: 15px;
   padding: 1px 10px;
@@ -399,7 +406,7 @@ z-index: 9;
     margin-bottom: 10px;
 }
 .product-wid-price ins {
-    color: #1abc9c;
+    color: #b7ce63;
     font-weight: 700;
     margin-right: 10px;
     text-decoration: none;
@@ -408,10 +415,10 @@ z-index: 9;
     color: #222;
 }
 .single-wid-product h2 a:hover, .single-product h2 a:hover {
-    color: #1ABC9C;
+    color: #b7ce63;
 }
 .wid-view-more {
-    background: none repeat scroll 0 0 #1abc9c;
+    background: none repeat scroll 0 0 #b7ce63;
     color: #fff;
     padding: 3px 15px;
     position: absolute;
@@ -435,7 +442,7 @@ padding: 35px 0 180px;}
 
 .footer-bottom-area {background: #000;color: #fff}
 .footer-about-us span {
-  color: #1abc9c;
+  color: #b7ce63;
 }
 .footer-wid-title {
   font-family: raleway;
@@ -462,7 +469,7 @@ padding: 35px 0 180px;}
 
 
 .footer-social a {
-  background: none repeat scroll 0 0 #1abc9c;
+  background: none repeat scroll 0 0 #b7ce63;
   color: #fff;
   display: inline-block;
   font-size: 20px;
@@ -471,7 +478,7 @@ padding: 35px 0 180px;}
   margin-right: 10px;
   padding-top: 5px;
   text-align: center;
-  width: 40px;border: 1px solid #1abc9c;
+  width: 40px;border: 1px solid #b7ce63;
 }
 
 .footer-social a:hover {background-color: #222;border-color: #666}
@@ -487,20 +494,20 @@ padding: 35px 0 180px;}
     width: 100%;
 }
 .newsletter-form input[type="submit"] {
-    background: none repeat scroll 0 0 #1abc9c;
+    background: none repeat scroll 0 0 #b7ce63;
     border: medium none;
     color: #fff;
     display: inline-block;
     font-size: 18px;
     padding: 7px 20px;
-    text-transform: uppercase;border: 1px solid #1abc9c;
+    text-transform: uppercase;border: 1px solid #b7ce63;
 }
 .newsletter-form input[type="submit"]:hover {background: #222;border-color: #666}
 .newsletter-form {
     margin-top: 25px;
 }
-a {color: #1abc9c}
-a:hover, a:focus {color: #17a78b}
+a {color: #b7ce63}
+a:hover, a:focus {color: #4b5842}
 .footer-bottom-area {
   background: none repeat scroll 0 0 #000;
   color: #fff;
@@ -560,7 +567,7 @@ width: 10px;
   margin: 10px 0 0;
 }
 
-.product-big-title-area {background: url(../img/crossword.png) repeat scroll 0 0 #1ABC9C}
+.product-big-title-area {background: url(../img/crossword.png) repeat scroll 0 0 #b7ce63}
 
 .product-bit-title h2 {
   font-family: raleway;
@@ -594,7 +601,7 @@ input[type="text"], input[type="password"], input[type="email"], textarea {
     padding: 10px;
 }
 input[type="submit"], button[type=submit] {
-    background: none repeat scroll 0 0 #1abc9c;
+    background: none repeat scroll 0 0 #b7ce63;
     border: medium none;
     color: #fff;
     padding: 11px 20px;
@@ -623,7 +630,7 @@ input[type="submit"]:hover, button[type=submit]:hover {background-color: #222}
     color: #222;
 }
 .product-sidebar-price > ins {
-    color: #1abc9c;
+    color: #b7ce63;
     font-weight: 700;
     margin-right: 10px;
     text-decoration: none;
@@ -677,7 +684,7 @@ input[type="submit"]:hover, button[type=submit]:hover {background-color: #222}
     margin-bottom: 25px;
 }
 .product-inner-price > ins {
-    color: #1abc9c;
+    color: #b7ce63;
     font-weight: 700;
     margin-right: 10px;
     text-decoration: none;
@@ -687,12 +694,12 @@ input[type="submit"]:hover, button[type=submit]:hover {background-color: #222}
     margin-right: 15px;
 }
 .quantity input[type="number"] {
-    border: 1px solid #1abc9c;
+    border: 1px solid #b7ce63;
     padding: 5px;
     width: 50px;
 }
 .add_to_cart_button {
-    background: none repeat scroll 0 0 #1abc9c;
+    background: none repeat scroll 0 0 #b7ce63;
     border: medium none;
     color: #fff;
     padding: 6px 25px;display: inline-block
@@ -715,7 +722,7 @@ form.cart {
     display: inline-block;
 }
 .product-tab li.active {
-    background: none repeat scroll 0 0 #1abc9c;
+    background: none repeat scroll 0 0 #b7ce63;
 }
 .product-tab li.active a {
     color: #fff;
@@ -800,7 +807,7 @@ td.product-name {
     font-size: 18px;
 }
 div.quantity input.plus, div.quantity input.minus {
-    background: none repeat scroll 0 0 #1abc9c;
+    background: none repeat scroll 0 0 #b7ce63;
     border: medium none;
     color: #fff;
     height: 25px;
@@ -828,7 +835,7 @@ td.actions div.coupon {
     width: 40%;
 }
 .cart-collaterals h2 {
-    color: #1abc9c;
+    color: #b7ce63;
     font-size: 25px;
     margin-bottom: 25px;
     text-transform: uppercase;
@@ -860,7 +867,7 @@ div.cart-collaterals ul.products li.product {
 .onsale {
 }
 div.cart-collaterals ul.products li.product .onsale {
-    background: none repeat scroll 0 0 #1abc9c;
+    background: none repeat scroll 0 0 #b7ce63;
     color: #fff;
     padding: 5px 10px;
     position: absolute;
@@ -880,7 +887,7 @@ div.cart-collaterals ul.products li.product .price {
 .price > ins {
 }
 div.cart-collaterals ul.products li.product .price ins {
-    color: #1abc9c;
+    color: #b7ce63;
     font-weight: 700;
     margin-left: 10px;
     text-decoration: none;
@@ -912,7 +919,7 @@ div.cart-collaterals ul.products li.product .price ins {
     width: 100%;
 }
 #customer_details h3 {
-    color: #1abc9c;
+    color: #b7ce63;
     font-size: 20px;
     text-transform: uppercase;
 }
@@ -922,7 +929,7 @@ div.cart-collaterals ul.products li.product .price ins {
     padding: 15px;
 }
 #order_review_heading {
-    color: #1abc9c;
+    color: #b7ce63;
     font-size: 20px;
     text-transform: uppercase;
 }
@@ -957,9 +964,9 @@ table.shop_table td.product-remove a {
 
 table.shop_table td.product-remove a:hover {color: #CE4844;text-decoration: none}
 table.shop_table td.product-name a{color: #222;}
-table.shop_table td.product-name a:hover {color: #1ABC9C;text-decoration: none}
+table.shop_table td.product-name a:hover {color: #b7ce63;text-decoration: none}
 div.quantity input.plus:hover, div.quantity input.minus:hover {background-color: #222}
-div.cart-collaterals ul.products li.product a:hover h3 {color: #1ABC9C}
+div.cart-collaterals ul.products li.product a:hover h3 {color: #b7ce63}
 div.cart-collaterals ul.products li.product a:hover {text-decoration: none}
 
 div.cart-collaterals ul.products li.product:hover .add_to_cart_button{background-color: #222}
@@ -1001,5 +1008,5 @@ div.cart-collaterals ul.products li.product:hover .add_to_cart_button{background
 .single-shop-product {margin-bottom: 50px}
 
 .pagination > li > a, .pagination > li > span {
-  color: #1abc9c;
+  color: #b7ce63;
 }

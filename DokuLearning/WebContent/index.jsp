@@ -153,7 +153,7 @@
     </div> <!-- End promo area -->
     
     <div class="maincontent-area">
-        <div class="zigzag-bottom"></div>
+        <div class="zigzag-bottom2"></div>
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
